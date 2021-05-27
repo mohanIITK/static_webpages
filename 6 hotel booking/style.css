@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.div {
+    height: 80vh;
+    width: 50vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+}
+
+.text {
+    border-radius: 5px;
+    text-align: center;
+    background-color: #000000e6;
+    color: white;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding-top: 20px;
+
+}
+
+.h1 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.p2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.button {
+    text-align: center;
+}
+
+.book {
+    background-color: white;
+    margin: 20px;
+}@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.div {
+    height: 80vh;
+    width: 50vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+}
+
+.text {
+    border-radius: 5px;
+    text-align: center;
+    background-color: #000000e6;
+    color: white;
+    margin-left: 90px;
+    margin-right: 90px;
+    padding-top: 20px;
+
+}
+
+.h1 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 10px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.p2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.button {
+    text-align: center;
+}
+
+.book {
+    background-color: white;
+    margin: 20px;
+}
