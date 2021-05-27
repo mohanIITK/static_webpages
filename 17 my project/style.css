@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.div {
+    height: 90vh;
+    width: 50vw;
+    text-align: center;
+}
+
+.h_main {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    padding-top: 5px;
+}
+
+.p_main {
+    color: #616e7c;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.im {
+    height: 15vh;
+    width: 20vw;
+    padding-bottom: 10px;
+    ;
+}
+
+.tech {
+    height: 90vh;
+    width: 50vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+}
+
+.t_tech {
+    background-color: #ffffff;
+    height: 20vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 30px;
+}
+
+.h_tech {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.p_tech {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.book_tech {
+    font-family: "Roboto";
+    margin-right: 20px;
+}
+
+.diwali {
+    height: 100vh;
+    width: 50vw;
+    text-align: center;
+    background-color: #e6f6ff;
+}
+
+.top {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.h_diwali {
+    color: #ffffff;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 15px;
+}
+
+.item {
+    text-align: center;
+    background-color: #ffffff;
+    width: 140px;
+    border-radius: 9px;
+    padding: 14px;
+    margin: 15px;
+    height: 160px;
+}
+
+.card_image {
+    height: 15vh;
+    width: 10vw;
+}
+
+.card {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.food {
+    height: 90vh;
+    width: 50vw;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+}
+
+.text {
+    background-color: #f6c56e;
+    height: 30vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+}
+
+.h_food {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+.p_food {
+    font-family: "Roboto";
+    color: #323f4b;
+
+}
+
+.book_food {
+    font-family: "Roboto";
+}
+
+.news {
+    height: 80vh;
+    width: 50vw;
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+}
+
+.t_news {
+    background-color: #ffffff;
+    height: 32vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 10px;
+}
+
+.h_news {
+    font-size: 10px;
+}
+
+.h_new {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.p_news {
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+.book_news {
+    font-family: "Roboto";
+    background-color: #323f4b;
+}
